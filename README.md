@@ -1,4 +1,5 @@
-# conferencia_ply
+# PLY: HERRAMIENTA DE CONSTRUCCIÓN DE COMPILADORES
+## Erick Villatoro
 Repositorio con los recursos de la conferencia PLY: HERRAMIENTA DE CONSTRUCCIÓN DE COMPILADORES. 
 
 ## Prerequisitos
